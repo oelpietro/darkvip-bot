@@ -1,13 +1,13 @@
 {
-  "name": "darkvip-bot",
+  "name": "dark-vip-bot",
   "version": "1.0.0",
   "main": "dark.js",
   "scripts": {
     "start": "node dark.js"
   },
   "dependencies": {
-    "dotenv": "^17.2.3",
     "telegraf": "^4.16.3",
-    "node-fetch": "^2.7.0"
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.6.9"
   }
 }
